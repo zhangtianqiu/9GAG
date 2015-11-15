@@ -19,6 +19,11 @@ import me.storm.ninegag.util.ToastUtils;
 
 /**
  * Created by storm on 14-3-24.
+
+
+
+
+
  */
 public abstract class BaseActivity extends FragmentActivity {
     protected ActionBar actionBar;
